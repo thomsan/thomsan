@@ -2,7 +2,7 @@
 
 I'm Thomas from Berlin,
 an engineer with broad hands-on experience in cutting-edge (and not so cutting-edge) technologies.
-My goal is to develop open source products that make life easier or just more fun.
+My goal is to develop open source products that make life easier, more meaningful or just more fun.
 
 [thomasascioglu.com](https://thomasascioglu.com)
 
