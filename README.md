@@ -12,7 +12,7 @@ My goal is to develop open source products that make life easier, more meaningfu
 * [ESP8266 remote control](https://github.com/thomsan/esp8266-remote-control)
 
 ### 🏦 Sponsors:
-Support by projects and [become a sponsor](https://github.com/sponsors/thomsan) 
+Support my projects and [become a sponsor](https://github.com/sponsors/thomsan)
 <!--
 **thomsan/thomsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
