@@ -7,9 +7,7 @@ My goal is to develop open source products that make life easier, more meaningfu
 [thomasascioglu.com](https://thomasascioglu.com)
 
 ### 🔭 I’m currently working on:
-* [Slapse](https://slapse.app)
-* [Audio reactive led strip](https://github.com/thomsan/audio-reactive-led-strip)
-* [ESP8266 remote control](https://github.com/thomsan/esp8266-remote-control)
+* [EMRSIV](https://emrsiv.space)
 
 ### 🏦 Sponsors:
 Support my projects and [become a sponsor](https://github.com/sponsors/thomsan)
